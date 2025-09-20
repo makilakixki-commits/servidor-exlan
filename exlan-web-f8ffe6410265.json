@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "exlan-web",
+  "private_key_id": "f8ffe6410265992f11355646a6f677744398e280",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWpXw9NCg9JzLC\nMBrEjDn8UCHcuRAWeuBqI18jgIZbjCrefC/WRXeS3oNXugTyNJN0ltKN5NR7ypjp\nS1gGgjBx7kTDQJ3TH3roqesEgNHoz9N+4/xL+/O1xguO1idkmzQ/pfFpcM4tfdJS\nUkD+B6Wwqau5Q+n0/2Dy5Mk/RwLcQ4PN6n+AuqWGNjOv8NmINt6ZfOgBM1vlIpE2\nOZTwLgw2xx+xYS8p3juQriTnZpZUQ7Bjlr02cqPlxGsQL9d+xTqDxrTEwHzdv7JS\nM2z4OpLi5pwj3fNYO5m+UcMZEIKCBwtVut3yOX8I07mFYw2aR0VSY58aKQBr3TX9\ntBbpjJ5zAgMBAAECggEARnN5hEMmw++mNtuAJava6mhIvQAW+jHpj5y9gNMSBmFK\nvsynDN6vIQsctAIP1omQLm/EeyM05M66ArSilzxK91IbyrReOOn3tv7ybv9zJkV0\nZw0ghbYUJ0DyETdUJa7VZuCqDJAkdAT8r91kjJxo80O1Y/EZDLt3kDGspjLCCxYZ\nqPRBbDwQ1OXZDuDn2YnMHiGTnzsey+lXwLK60lvcGeXHxf6/TjC+/wUaLY27iIgO\nYKrCxk9mVf+YWErTBSn5l/zicN0yrMZ9sEdomSWD2TsaHXr+jIu524DpUi4n7qa1\ncxBuvmb3WHAa/TnakfsLt63ZIlPiP4XKbvfX6FlL/QKBgQD6bawxmSRY7iVG6ZVn\nYVkTzrvPQf+PikzI+wPUOrlSSjwBSmagYNzSJC76uru4Zek8wvETi6AnyrrGJfg6\n4Cg6k0aNlaRmVHka/zrJD2wMOmSshEGgDW+x3q1PX+wJPO6eLunk32jnTlxzxjQC\nQwn/NbnQYzKKZm/3JFiqGjIxxQKBgQDbbAO/AGOnKxK3b+PFYh7anY6rHZr+MMlf\njFQZunztOI03n527JcM4VZRyl1m92SyUaBja1goJpbqNCVxOKUqqGMfE6D4Z4Xqw\nWuDgBwjLTqLyHB6MLF4vIpJDYSzf5VxbZdWZTQPUiFa6xeFKXAKleSuXhuNE/VDN\nX9M5QHiq1wKBgQDaXmXnfe126npw4mAYHIfrQLr+GEO7q9IW8uM83dQZkIfQbEsf\nEDedulWI5umn+p2uESLcc0U9TYceH5/b3vjVUvUTougPHxvXUbW1+w+xff2pfU4o\nPW8nP9AKRc9xosNEBg6IN9Om1urBPZS+YCzIcNXNg6JfksGRVQ1Hjr40LQKBgBm6\n19Gc9RKUPXSfPUFXGTEfiqxMI3GtPN/kb7Q4pw+WMxETuYZJjlPbzTWGw/I8NjsM\n3eVDdhfdhDunnlhYBTZfA4X2idm1FBL8BSSgDorwpLDpVTewuDakwiv+iCmVFrhs\n/5gjbNCOUEVEkP+MPI8030S8f4gGgGQk2Xr8MWovAoGAGwqL3OLMYwtazcaRomCF\nYmHmWuX7YkP61O2E9fiLmgbSKtDLIEq/18K67pEwvwom6j++xfSCFv0qJngFQekI\nQEmJveuqLuUG3bA+VyuM/cn4abCLZVDK/aY7aQ/kLATc9enP5PN6CiuUVRt9EJ4Z\nQXgNaVJ1ZfwZt8LlMRHQabo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speechtotext@exlan-web.iam.gserviceaccount.com",
+  "client_id": "108275720416311118139",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speechtotext%40exlan-web.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
