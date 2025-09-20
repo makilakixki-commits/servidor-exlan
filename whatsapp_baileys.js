@@ -102,10 +102,10 @@ const upload = multer({
 const GROQ_API_KEY = "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";
 
 // Configurar la variable de entorno para Google Cloud
-process.env.GOOGLE_APPLICATION_CREDENTIALS = path.join(__dirname, "exlan-web-f8ffe6410265.json");
+process.env.GOOGLE_APPLICATION_CREDENTIALS = path.join(__dirname, "exlan-web-firebase-adminsdk-fbsvc-bd5e0f3dc4.json");
 
 // Inicializar Firebase Admin
-var serviceAccount = require("./exlan-web-firebase-adminsdk-fbsvc-5a0921c974.json");
+var serviceAccount = require("./exlan-web-firebase-adminsdk-fbsvc-bd5e0f3dc4.json");
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount)
